@@ -9,4 +9,4 @@
 - 😄 Pronouns: she/her
 
 
-![alt text](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg){:height="50%" width="50%"} ![alt text](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) ![alt text](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) 
+![alt text](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg?s=50) ![alt text](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) ![alt text](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) 
