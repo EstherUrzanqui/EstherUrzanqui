@@ -1,4 +1,6 @@
-### Hi 👋, I'm Esther.
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Esther</h1>
+<h3 align="center">A passionate developer from Barcelona</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gargakshit" alt="gargakshit" /> </p>
 
 
 - 🔭 I’m currently working on personal projects
@@ -9,4 +11,4 @@
 - 😄 Pronouns: she/her
 
 
-![alt text](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg?s=10) ![alt text](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) ![alt text](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) 
+<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </p><p align="center"> <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=gargakshit&show_icons=true" alt="gargakshit" /> </p> 
