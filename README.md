@@ -4,7 +4,7 @@
 <br />
 <br />
 
-- 🔭 I’m currently working on personal projects
+- 🔭 I’m currently working on personal side projects
 - 🌱 I’m currently learning Redux and MongoDB
 - 👯 I’m looking to collaborate on an open source
 - 👩🏻‍💻 All of my projects are available at www.estherurzanqui.com
