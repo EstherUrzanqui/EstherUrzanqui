@@ -2,6 +2,7 @@
 <h3 align="center">A passionate full stack developer from Barcelona</h3>
 
 <br />
+<br />
 
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning Redux and MongoDB
