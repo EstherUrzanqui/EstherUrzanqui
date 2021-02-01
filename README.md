@@ -5,7 +5,7 @@
 <br />
 
 - 🔭 I’m currently working on personal side projects
-- 🌱 I’m currently learning Redux and MongoDB
+- 🌱 I’m currently learning PHP and MongoDB
 - 👯 I’m looking to collaborate on an open source
 - 👩🏻‍💻 All of my projects are available at www.estherurzanqui.com
 - 📫 How to reach me: estherurzanqui81@gmail.com
