@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on personal side projects
 - 🌱 I’m currently learning PHP and AWS
 - 👯 I’m looking to collaborate on an open source
-- 👩🏻‍💻 All of my projects are available at www.estherurzanqui.herokuapp.com
+- 👩🏻‍💻 All of my projects are available at https://estherurzanqui.herokuapp.com/
 - 📫 How to reach me: estherurzanqui81@gmail.com
 - 😄 Pronouns: she/her
 
