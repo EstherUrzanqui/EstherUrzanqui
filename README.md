@@ -25,6 +25,6 @@
 
 
 
-[website]: https://www.estherurzanqui.com
+[website]: https://estherurzanqui.herokuapp.com/
 [twitter]: https://twitter.com/EstherUrzanqui
 [linkedin]: https://www.linkedin.com/in/esther-urzanqui/
